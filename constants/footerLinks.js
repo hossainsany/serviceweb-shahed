@@ -5,7 +5,6 @@ const footerLinks = [
         content: [
             { text: 'About Shahed Expo', link: '#about' },
             { text: 'Our Services', link: '#services' },
-            { text: 'Projects', link: '#projects' },
             { text: 'Contact Us', link: '/contact' },
         ],
     },
