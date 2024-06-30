@@ -6,7 +6,7 @@ export const metadata = {
     applicationName: 'WebExis',
     title: 'Shahed Expo - Your Gateway to Online Success',
     description:
-        "At Webexis, we're passionate about transforming businesses into digital powerhouses. In today's hyper-connected world, having a robust online presence is more critical than ever. Our mission is to help you unlock your business's full online potential.",
+        "Hi, I am Shahed and I am passionate about transforming businesses into digital powerhouses. In today's hyper-connected world, having a robust online presence is more critical than ever. My mission is to help you unlock your business's full online potential.",
 
     authors: [{ name: 'Hossain Sany', url: 'https://hossainsany.com' }],
     icons: {
