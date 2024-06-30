@@ -10,7 +10,7 @@ const NavLinks = ({ burgerToggle, setBurgerToggle }) => {
 
     return (
         <ul
-            className={` flex flex-col xl:flex-row absolute bottom-[-274px] left-0 w-full px-5 py-5 z-[2] bg-dark-gray border-y-[1px] border-accent/[0.3] lg:pr-0 lg:border-0 lg:flex-row lg:relative lg:top-0 lg:left-0 lg:justify-end lg:flex .transition-300 ${
+            className={` flex flex-col xl:flex-row absolute bottom-[-222px] left-0 w-full px-5 py-5 z-[2] bg-dark-gray border-y-[1px] border-accent/[0.3] lg:pr-0 lg:border-0 lg:flex-row lg:relative lg:top-0 lg:left-0 lg:justify-end lg:flex .transition-300 ${
                 !burgerToggle ? 'hidden' : ''
             }`}
         >

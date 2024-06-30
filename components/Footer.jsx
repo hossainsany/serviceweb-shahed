@@ -119,6 +119,12 @@ const Footer = () => {
                 <p className='text-center text-sm font-light opacity-[55%]'>
                     All rights reserved <span className='text-accent'>© 2024 Shahed Expo.</span>
                 </p>
+                <p className='text-center text-sm font-light opacity-[55%]'>
+                    Developed by{' '}
+                    <a href='https://webexis.net' className='hover:underline'>
+                        Webexis
+                    </a>
+                </p>
             </div>
         </footer>
     );
